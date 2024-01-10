@@ -1,5 +1,3 @@
-# Sefatul_Wasi
-
 ### Greeting! I'm Sefatul Wasi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <div align="center">
@@ -74,7 +72,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Sefatul Wasi's github stats](https://https://sw-github-readme-stats.vercel.app//api?username=WallE1602&theme=gotham)](https://github.com/WallE1602/-SW--github-readme-stats)
+[![Sefatul Wasi's github stats](https://sw-github-readme-stats.vercel.app//api?username=WallE1602&theme=gotham)](https://github.com/WallE1602/-SW--github-readme-stats)
 
 
 [My Profile]: https://walle1602.github.io/Portfolio/
