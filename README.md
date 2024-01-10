@@ -33,7 +33,7 @@
 
 ### A Researcher, Developer and Football Fanatic
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="User Interface.gif" width="500" height="320" />
 
 #### Quick Intro:
 
