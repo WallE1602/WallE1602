@@ -41,7 +41,6 @@
 - 💻 Working in the field of Medical Image Processing and Computer-aided diagnosis.
 - ✍ My ResearchGate Account [ResearchGate][researchgate]
 - ✨ I'm learning AI/ML development, Flutter, Automations etc.
-- 🎮 FIFA, Valorant
 - 📄 My Portfolio Website [Portfolio][profile]
 
 <!-- ### Languages & Tools
@@ -75,5 +74,5 @@
 [![Sefatul Wasi's github stats](https://sw-github-readme-stats.vercel.app//api?username=WallE1602&theme=gotham)](https://github.com/WallE1602/-SW--github-readme-stats)
 
 
-[My Profile]: https://walle1602.github.io/Portfolio/
+[My Profile]: 
 [researchgate]: https://www.researchgate.net/profile/Sefatul-Wasi
