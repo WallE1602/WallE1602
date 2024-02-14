@@ -31,7 +31,6 @@
 - 💻 Working in the field of Medical Image Processing and Computer-aided diagnosis.
 - ✍ My ResearchGate Account [ResearchGate][researchgate]
 - ✨ I'm learning AI/ML development, Flutter, Automations etc.
-- 📄 My Portfolio Website [Portfolio][profile]
 
 ### Languages & Tools
 
