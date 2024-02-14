@@ -23,7 +23,7 @@
 
 ### A Researcher, Developer and Football Fanatic
 
-<img align="right" alt="GIF" src="User Interface.gif" width="300" height="320" />
+<img align="right" alt="GIF" src="User Interface.gif" width="300" height="300" />
 
 #### Quick Intro:
 
