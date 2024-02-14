@@ -29,7 +29,7 @@
 
 - 🙋‍♂️ Research Assistant @ Independent University, Bangladesh.
 - 💻 Working in the field of Medical Image Processing and Computer-aided diagnosis.
-- ✍ My ResearchGate Account [ResearchGate][[researchgate](https://www.researchgate.net/profile/Sefatul-Wasi)]
+- ✍ My ResearchGate Account [[ResearchGate](https://www.researchgate.net/profile/Sefatul-Wasi)]
 - ✨ I'm learning AI/ML development, Flutter, Automations etc.
 
 ### Languages & Tools
