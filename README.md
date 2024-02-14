@@ -2,20 +2,23 @@
 
 <div align="center">
 <p align="center">How you doin'!</p>
-<a href="https://twitter.com/Sefatul_wasi16">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.facebook.com/Sefatulwasi16/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/waiccha">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
 
 <a href="https://www.linkedin.com/in/sefatul-wasi-5a606715a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/Sefatulwasi16/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+
+<a href="https://www.instagram.com/waiccha">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/Sefatul_wasi16">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </div>
 
