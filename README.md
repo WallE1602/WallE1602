@@ -29,7 +29,7 @@
 
 - 🙋‍♂️ Research Assistant @ Independent University, Bangladesh.
 - 💻 Working in the field of Medical Image Processing and Computer-aided diagnosis.
-- ✍ My ResearchGate Account [ResearchGate][researchgate]
+- ✍ My ResearchGate Account [ResearchGate][[researchgate](https://www.researchgate.net/profile/Sefatul-Wasi)]
 - ✨ I'm learning AI/ML development, Flutter, Automations etc.
 
 ### Languages & Tools
@@ -48,7 +48,3 @@
 <br>
 
 [![Sefatul Wasi's github stats](https://sw-github-readme-stats.vercel.app//api?username=WallE1602&theme=gotham)](https://github.com/WallE1602/-SW--github-readme-stats)
-
-
-[My Profile]: 
-[researchgate]: https://www.researchgate.net/profile/Sefatul-Wasi
